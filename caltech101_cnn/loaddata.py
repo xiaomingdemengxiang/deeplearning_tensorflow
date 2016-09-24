@@ -1,4 +1,7 @@
 #coding=utf-8
+#author:xubaochuan
+#date:2016/9/24
+
 import os
 import numpy as np
 import cv2

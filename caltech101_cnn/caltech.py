@@ -1,4 +1,7 @@
 #coding=utf-8
+#author:xubaochuan
+#date:2016/9/24
+ 
 import tensorflow as tf
 import numpy as np
 
